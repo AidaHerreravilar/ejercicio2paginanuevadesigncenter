@@ -1,0 +1,179 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid red;
+  padding: 15px;
+  margin: 30px;
+  height: 200%;
+  width: 800px;
+  padding-left: 35px;
+
+}
+h2 {
+  color: rgb(17, 50, 197);
+font-family: unset;
+  text-align: center;
+  border: 1px solid red;
+  padding: 15px;
+  margin: 30px;
+  height: 200%;
+  width: 800px;
+  padding-left: 30px;
+ 
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+}
+.p1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+  "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+color: firebrick;
+height: 130px; 
+width: 130px;
+border: 2px solid red;
+display: block; 
+}
+.p2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+  "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+color: firebrick;
+display: flex;
+justify-content: space-between;
+}
+  .p3 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+  height: 130px; 
+  width: 130px;
+  border: 2px solid red;
+  display: flex;
+justify-content: space-evenly;
+align-items: flex-start;
+flex-wrap: wrap;  
+}
+
+img {
+  width: 240px;
+  height: 240px;
+}
+.item {
+  order: 0;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+  text-align-last: justify;
+
+}
+#order-segundo {
+  order: 1;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+  text-align-last: center;
+  display: block;
+ 
+
+}
+#order-tercer {
+  order: 2;
+  border: 5px solid red;
+  padding: 3px;
+  margin: 3px;
+  height: 10%;
+  width: 50px;
+  padding-left: 15px;
+  text-align-last: justify;
+ 
+}
+#order-cuarto {
+  order: 3;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+  text-align-last: center;
+
+}
+
+.contenedor {
+  text-align: center;
+  color: rgb(202, 73, 13);
+  text-align: right;
+  padding: 1px;
+  margin: 1px;
+   height: 10%;
+  width: 65px;
+  padding-left: 30px;
+}
+
+.contacto  {
+  font-style: italic;
+  color: chartreuse;
+  text-align: center;
+}
+
+ul {
+color:red
+  list-style-type : circle; 
+}
+
+lista_cuad {
+  color:saddlebrown
+  list-style-type : square;
+  }
+
+ol {
+  color:peru;
+  list-style-type: lower-alpha;
+}
+
+ul {
+  color:peru;
+ list-style-type: lower-alpha;
+}
+
+div {
+  background-color: yellow;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 900px;
+  padding-left: 35px;
+}
+
+.divDos {
+  background-color: rgb(191, 181, 207);
+  border: 3px solid orange;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+}
+
+.divTres {
+  background-color: rgb(191, 181, 207);
+  border: 3px solid orange;
+  margin: 30px;
+  height: 300%;
+  width: 700px;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+
